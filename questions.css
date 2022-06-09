@@ -1,0 +1,371 @@
+.ques1{
+    background-color: rgba(255, 197, 190, 0.766);
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+    border-radius: 15px;
+}
+.ques1 h1{
+    font-size: 3rem;
+    color: rgb(221, 112, 99);
+}
+.ques1 h2{
+    font-size: 2.5rem;
+}
+.op1{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+.op1 button{
+    margin: 4rem;
+    background-color: salmon;
+    border: 2px solid salmon;
+    color: rgb(255, 255, 255);
+    height: fit-content;
+    width: fit-content;
+    font-size: 3rem;
+    border-radius: 15px;   
+}
+.op1 button:hover{
+    cursor: pointer;
+    color: rgb(250, 201, 195);
+}
+
+.ques2{
+    background-color: rgba(255, 197, 190, 0.766);
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+    border-radius: 15px;
+}
+.ques2 h1{
+    font-size: 3rem;
+    color: rgb(221, 112, 99);
+}
+.ques2 h2{
+    font-size: 2.5rem;
+}
+.op2{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+.op2 button{
+    margin: 3rem;
+    background-color: salmon;
+    border: 2px solid salmon;
+    color: rgb(255, 255, 255);
+    height: fit-content;
+    width: fit-content;
+    font-size: 3rem;
+    border-radius: 15px;   
+}
+.op2 button:hover{
+    cursor: pointer;
+    color: rgb(250, 201, 195);
+}
+
+.ques3{
+    background-color: rgba(255, 197, 190, 0.766);
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+    border-radius: 15px;
+}
+.ques3 h1{
+    font-size: 3rem;
+    color: rgb(221, 112, 99);
+}
+.ques3 h2{
+    font-size: 2.5rem;
+    margin: 2rem;
+}
+.op3{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+.op3 button{
+    margin: 3rem;
+    background-color: salmon;
+    border: 2px solid salmon;
+    color: rgb(255, 255, 255);
+    height: fit-content;
+    width: fit-content;
+    font-size: 3rem;
+    border-radius: 15px;   
+}
+.op3 button:hover{
+    cursor: pointer;
+    color: rgb(250, 201, 195);
+}
+
+.ques4{
+    background-color: rgba(255, 197, 190, 0.766);
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+    border-radius: 15px;
+}
+.ques4 h1{
+    font-size: 3rem;
+    color: rgb(221, 112, 99);
+}
+.ques4 h2{
+    font-size: 2.5rem;
+}
+.op4{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+.op4 button{
+    margin: 4rem;
+    background-color: salmon;
+    border: 2px solid salmon;
+    color: rgb(255, 255, 255);
+    height: fit-content;
+    width: fit-content;
+    font-size: 3rem;
+    border-radius: 15px;   
+}
+.op4 button:hover{
+    cursor: pointer;
+    color: rgb(250, 201, 195);
+}
+
+.ques5{
+    background-color: rgba(255, 197, 190, 0.766);
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+    border-radius: 15px;
+}
+.ques5 h1{
+    font-size: 3rem;
+    color: rgb(221, 112, 99);
+}
+.ques5 h2{
+    font-size: 2.5rem;
+}
+.op5{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+.op5 button{
+    margin: 3rem;
+    background-color: salmon;
+    border: 2px solid salmon;
+    color: rgb(255, 255, 255);
+    height: fit-content;
+    width: fit-content;
+    font-size: 3rem;
+    border-radius: 15px;   
+}
+.op5 button:hover{
+    cursor: pointer;
+    color: rgb(250, 201, 195);
+}
+
+.ques6{
+    background-color: rgba(255, 197, 190, 0.766);
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+    border-radius: 15px;
+}
+.ques6 h1{
+    font-size: 3rem;
+    color: rgb(221, 112, 99);
+}
+.ques6 h2{
+    font-size: 2.5rem;
+}
+.op6{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+.op6 button{
+    margin: 4rem;
+    background-color: salmon;
+    border: 2px solid salmon;
+    color: rgb(255, 255, 255);
+    height: fit-content;
+    width: fit-content;
+    font-size: 3rem;
+    border-radius: 15px;   
+}
+.op6 button:hover{
+    cursor: pointer;
+    color: rgb(250, 201, 195);
+}
+
+.ques7{
+    background-color: rgba(255, 197, 190, 0.766);
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+    border-radius: 15px;
+}
+.ques7 h1{
+    font-size: 3rem;
+    color: rgb(221, 112, 99);
+}
+.ques7 h2{
+    font-size: 2.5rem;
+}
+.op7{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+.op7 button{
+    margin: 3.5rem;
+    background-color: salmon;
+    border: 2px solid salmon;
+    color: rgb(255, 255, 255);
+    height: fit-content;
+    width: fit-content;
+    font-size: 3rem;
+    border-radius: 15px;   
+}
+.op7 button:hover{
+    cursor: pointer;
+    color: rgb(250, 201, 195);
+}
+
+.ques8{
+    background-color: rgba(255, 197, 190, 0.766);
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+    border-radius: 15px;
+}
+.ques8 h1{
+    font-size: 3rem;
+    color: rgb(221, 112, 99);
+}
+.ques8 h2{
+    font-size: 2.5rem;
+}
+.op8{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+.op8 button{
+    margin: 3.5rem;
+    background-color: salmon;
+    border: 2px solid salmon;
+    color: rgb(255, 255, 255);
+    height: fit-content;
+    width: fit-content;
+    font-size: 3rem;
+    border-radius: 15px;   
+}
+.op8 button:hover{
+    cursor: pointer;
+    color: rgb(250, 201, 195);
+}
+
+.ques9{
+    background-color: rgba(255, 197, 190, 0.766);
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+    border-radius: 15px;
+}
+.ques9 h1{
+    font-size: 3rem;
+    color: rgb(221, 112, 99);
+}
+.ques9 h2{
+    font-size: 2.5rem;
+    margin: 3rem;
+}
+.op9{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+.op9 button{
+    margin: 3rem;
+    background-color: salmon;
+    border: 2px solid salmon;
+    color: rgb(255, 255, 255);
+    height: fit-content;
+    width: fit-content;
+    font-size: 3rem;
+    border-radius: 15px;   
+}
+.op9 button:hover{
+    cursor: pointer;
+    color: rgb(250, 201, 195);
+}
+
+.ques10{
+    background-color: rgba(255, 197, 190, 0.766);
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+    border-radius: 15px;
+}
+.ques10 h1{
+    font-size: 3rem;
+    color: rgb(221, 112, 99);
+}
+.ques10 h2{
+    font-size: 2.5rem;
+}
+.op10{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+.op10 button{
+    margin: 3rem;
+    background-color: salmon;
+    border: 2px solid salmon;
+    color: rgb(255, 255, 255);
+    height: fit-content;
+    width: fit-content;
+    font-size: 2.5rem;
+    border-radius: 15px;   
+}
+.op10 button:hover{
+    cursor: pointer;
+    color: rgb(250, 201, 195);
+}
