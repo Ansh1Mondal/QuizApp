@@ -93,3 +93,38 @@ html {
     color: rgb(250, 201, 195);
 }
 
+#refresh_btn{
+    margin-top: 5rem;
+}
+
+.toTop button{
+    margin-left: 1100%;
+    margin-bottom: 0rem;
+    width: 3rem;
+    padding-top: 0.8rem;
+    padding-left: 1rem;
+    padding-right: 2.3rem;
+    /* margin:2rem;  */
+    /* position: fixed; */
+}
+
+@media only screen and (max-width:1433px) {
+    .toTop button{margin-left: 900%;}
+}
+
+@media only screen and (max-width:1200px) {
+    .toTop button{margin-left: 700%;}
+    .heading h1{font-size: 3rem;}
+    .heading2{font-size: 2rem;}
+}
+
+@media only screen and (max-width:770px) {
+    .toTop button{margin-left: 500%;}
+    .heading2{font-size: 1.3rem;}
+    .info{margin: 1rem;}
+    .para{font-size: 1.5rem;}
+}
+
+@media only screen and (max-width:640px) {
+    .toTop button{margin-left: 200%;}
+}

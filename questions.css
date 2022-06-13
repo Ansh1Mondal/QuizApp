@@ -369,3 +369,94 @@
     cursor: pointer;
     color: rgb(250, 201, 195);
 }
+
+@media only screen and (max-width: 630px) {
+    .ques1{margin: 1rem;}
+    .ques2{margin: 1rem;}
+    .ques3{margin: 1rem;}
+    .ques4{margin: 1rem;}
+    .ques5{margin: 1rem;}
+    .ques6{margin: 1rem;}
+    .ques7{margin: 1rem;}
+    .ques8{margin: 1rem;}
+    .ques9{margin: 1rem;}
+    .ques10{margin: 1rem;}
+
+    .ques1 h2{font-size: 1.8rem;margin-top: 3rem;}
+    .ques2 h2{font-size: 1.8rem;margin-top: 3rem;}
+    .ques3 h2{font-size: 1.8rem;margin-top: 3rem;}
+    .ques4 h2{font-size: 1.8rem;margin-top: 3rem;}
+    .ques5 h2{font-size: 1.8rem;margin-top: 3rem;}
+    .ques6 h2{font-size: 1.8rem;margin-top: 3rem;}
+    .ques7 h2{font-size: 1.8rem;margin-top: 3rem;}
+    .ques8 h2{font-size: 1.8rem;margin-top: 3rem;}
+    .ques9 h2{font-size: 1.8rem;margin-top: 3rem;}
+    .ques10 h2{font-size: 1.8rem;margin-top: 3rem;}
+
+    .op1 button{
+        margin: 1rem;
+        margin-top: 4rem;
+        margin-bottom: 3rem;
+        font-size: 1.5rem;
+    }
+    .op2 button{
+        margin: 1rem;
+        margin-top: 4rem;
+        margin-bottom: 3rem;
+        font-size: 1.5rem;
+    }
+    .op3 button{
+        margin: 1rem;
+        margin-top: 4rem;
+        margin-bottom: 3rem;
+        font-size: 1.5rem;
+    }
+    .op4 button{
+        margin: 1rem;
+        margin-top: 4rem;
+        margin-bottom: 3rem;
+        font-size: 1.5rem;
+    }
+    .op5 button{
+        margin: 1rem;
+        margin-top: 4rem;
+        margin-bottom: 3rem;
+        font-size: 1.5rem;
+    }
+    .op6 button{
+        margin: 1rem;
+        margin-top: 4rem;
+        margin-bottom: 3rem;
+        font-size: 1.5rem;
+    }
+    .op7 button{
+        margin: 1rem;
+        margin-top: 4rem;
+        margin-bottom: 3rem;
+        font-size: 1.5rem;
+    }
+    .op8 button{
+        margin: 1rem;
+        margin-top: 4rem;
+        margin-bottom: 3rem;
+        font-size: 1.5rem;
+    }
+    .op9 button{
+        margin: 1rem;
+        margin-top: 4rem;
+        margin-bottom: 3rem;
+        font-size: 1.5rem;
+    }
+    .op10 button{
+        margin: 0.5rem;
+        margin-top: 4rem;
+        margin-bottom: 3rem;
+        font-size: 1.5rem;
+    }
+}
+
+@media only screen and (max-width: 510px) {
+    .ques1{
+        margin: 0rem; 
+    }
+}

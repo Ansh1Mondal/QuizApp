@@ -12,8 +12,8 @@
 </head>
 <body>
     <div class="container">
-        <div class="BgImage">
-            <div class="heading">
+        <div class="BgImage" id="top">
+            <div class="heading" >
                 <h1>Let's Start The Quiz Game</h1>
             </div>
             <div class="StartBtn" id="StartBtn">
@@ -135,6 +135,26 @@
                 <button id="A10">D. All of the above</button>
             </div>
         </div>
+        
+        <div class="score score_heading info" id="score">
+            <h1 class="heading2">
+                :SCORE:
+            </h1>
+            <div class="marks heading2" id="marks" >
+                0
+            </div>
+            <div class="text heading2" id="Stext"></div>
+            <div class="Nbtn" id="refresh_btn">
+                <button  id="refresh">Refresh</button> 
+            </div>
+            <div class="toTop Nbtn" id="ToTop">
+                <a href="#top">
+                    <button id="ttop">^</button>
+                </a>
+            </div>  
+                
+        </div>
+        
     </div>
     <script src="/index.js"></script>
 </body>
